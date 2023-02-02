@@ -31,10 +31,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jawad-jahangir-soomro&show_icons=true&locale=en&layout=compact" alt="jawad-jahangir-soomro" /></p>
 
-<br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jawad-jahangir-soomro&show_icons=true&locale=en" alt="jawad-jahangir-soomro" /></p>
 
-<br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-jahangir-soomro&" alt="jawad-jahangir-soomro" /></p>
