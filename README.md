@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jawad Jahangir Soomro</h1>
+<h1 align="left">Hi 👋, I'm Jawad Jahangir Soomro</h1>
 <h3 align="right">A passionate Software Developer and Tech Enthusiast from Pakistan</h3>
-
+<br>
 <img align="center" alt="Coding" width="400" src= "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611023803799219aa393e9f7c12b5dcf72e4d835f87&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawad-jahangir-soomro&label=Profile%20views&color=0e75b6&style=flat" alt="jawad-jahangir-soomro" /> </p>
