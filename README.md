@@ -1,11 +1,11 @@
-<h1 align="left">Hi 👋, I'm Jawad Jahangir Soomro</h1>
-<h3 align="right">A passionate Software Developer and Tech Enthusiast from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Jawad Jahangir Soomro</h1>
+<h3 align="center">A passionate Software Developer and Tech Enthusiast from Pakistan</h3>
 <br>
-<img align="center" alt="Coding" width="400" src= "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611023803799219aa393e9f7c12b5dcf72e4d835f87&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src= "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611023803799219aa393e9f7c12b5dcf72e4d835f87&rid=giphy.gif&ct=g">
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawad-jahangir-soomro&label=Profile%20views&color=0e75b6&style=flat" alt="jawad-jahangir-soomro" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jawad-jahangir-soomro" alt="jawad-jahangir-soomro" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter at SayabiDevs**
 
@@ -16,6 +16,11 @@
 - 📫 How to reach me **jawadsoomro183@gmail.com**
 
 - ⚡ Fun fact **I am not so Funny :D**
+
+<br>
+<br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jawad-jahangir-soomro" alt="jawad-jahangir-soomro" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
