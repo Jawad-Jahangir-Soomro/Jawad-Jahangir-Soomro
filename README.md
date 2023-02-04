@@ -20,6 +20,8 @@
 <br>
 <br>
 
+<h1 align="center"></h1>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jawad-jahangir-soomro" alt="jawad-jahangir-soomro" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
