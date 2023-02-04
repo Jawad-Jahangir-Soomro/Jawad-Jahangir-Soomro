@@ -45,3 +45,6 @@
 <p align="center">&nbsp;<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=jawad-jahangir-soomro&show_icons=true&locale=en" alt="jawad-jahangir-soomro" /></p>
 
 <p align="center"><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-jahangir-soomro&" alt="jawad-jahangir-soomro" /></p>
+
+<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+
