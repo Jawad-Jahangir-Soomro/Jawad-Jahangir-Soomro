@@ -1,8 +1,7 @@
 ![Futuristic Technology Facebook Cover Template](https://user-images.githubusercontent.com/123876118/216769958-c48fd0a1-06b7-4a3a-b73e-c4215b577f09.gif)
 
 <h1 align="center"></h1>
-
-<h1 align="center">Hi 👋, I'm Jawad Jahangir Soomro</h1>
+<h1 align="center">Hi 👋, I'm Jawad Jahangir Soomro </h1>
 <h3 align="center">A passionate Software Developer and Tech Enthusiast from Pakistan</h3>
 <h1 align="center"></h1>
 <br>
@@ -25,7 +24,7 @@
 <br>
 
 <h1 align="center"></h1>
-
+<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jawad-jahangir-soomro" alt="jawad-jahangir-soomro" /></a> </p>
 
 <h1 align="center"></h1>
